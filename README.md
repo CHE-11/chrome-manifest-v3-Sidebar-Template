@@ -1,4 +1,5 @@
-# <img src="src/icons/icon_48.png" width="45" align="left"> Sidebar Template
+
+# ![icon_16](https://user-images.githubusercontent.com/57516026/186784130-de7be347-ffeb-4358-a1d4-2301375acd97.png) Sidebar Template
 Manifest V3 Sidebar template. Most chrome extensions are popup based but the best use of extensions is often a sidebar. To make development easier, I made this template for MV3 to quickly start development of a sidebar extension that compiles modules into 
 
 ## Use 

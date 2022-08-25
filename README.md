@@ -1,5 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Timeblox
-
+# <img src="src/icons/icon_48.png" width="45" align="left"> Sidebar Template
 Manifest V3 Sidebar template. Most chrome extensions are popup based but the best use of extensions is often a sidebar. To make development easier, I made this template for MV3 to quickly start development of a sidebar extension that compiles modules into 
 
 ## Use 
